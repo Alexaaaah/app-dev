@@ -1,11 +1,11 @@
 # app-dev
 My first repository
 
-#==LOKI==
+==**LOKI**==
 In this series **Loki** is recruited by the Time Variance Authority organization to stop threats to the integrity of the timelines. This series follows the events after the *Avengers: Endgame* last 2019 after a Loki variant tool the Tesseract during the Avengers time-heist.
 
-##**LOKI SEASON 1**
-###*Episodes*
+**LOKI SEASON 1**
+*Episodes*
 1. Glorious Purpose
 2. The Variant
 3. Lamentis
@@ -13,8 +13,8 @@ In this series **Loki** is recruited by the Time Variance Authority organization
 5. Journey into Mystery
 6. For All Time. Always.
 
-##**LOKI SEASON 2**
-###*Episodes*
+**LOKI SEASON 2**
+*Episodes*
 1. Ouroboros
 2. Breaking Brad
 3. 1893
