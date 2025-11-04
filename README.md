@@ -1,7 +1,6 @@
-# app-dev
+# Loki the Series
 My first repository
 
-**LOKI**
 In this series **Loki** is recruited by the Time Variance Authority organization to stop threats to the integrity of the timelines. This series follows the events after the *Avengers: Endgame* last 2019 after a Loki variant tool the Tesseract during the Avengers time-heist.
 
 **LOKI SEASON 1**
